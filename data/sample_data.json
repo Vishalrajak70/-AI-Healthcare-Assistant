@@ -1,0 +1,13 @@
+{
+    "patients": [
+        {
+            "id": "P001",
+            "age": 45,
+            "symptoms": ["chest pain", "shortness of breath"],
+            "diagnosis": "Pneumonia"
+        }
+    ],
+    "medical_terms": [
+        "pneumonia", "tuberculosis", "chest pain", "consolidation"
+    ]
+}

@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "./healthcare_env/Scripts/python",
+    "python.terminal.activateEnvironment": true,
+    "streamlit.python.path": "./healthcare_env/Scripts/python"
+}
