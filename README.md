@@ -48,5 +48,6 @@ ai-healthcare-assistant/
 
 **Author**
 
-Developer: Vishal RAJAK
+Developer: Vishal Rajak
+
 Email: vishalrajak97210@gmail.com
