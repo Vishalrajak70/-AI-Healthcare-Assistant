@@ -32,7 +32,7 @@ streamlit run app.py
 
 📋 Setup
 
-git clone https://github.com/yourusername/ai-healthcare-assistant.git
+git clone https://github.com/Vishalrajak70/-AI-Healthcare-Assistant?tab=readme-ov-file
 
 Visit 👉 http://localhost:8501
 
@@ -47,5 +47,6 @@ ai-healthcare-assistant/
 └── assets/              # Static files and images
 
 **Author**
+
 Developer: Vishal RAJAK
 Email: vishalrajak97210@gmail.com
